@@ -1,3 +1,17 @@
+# Pokedex
+
+#### 🔹 Sobre esse projeto:
+
+Nesse projeto fiz um portfolio!
+
+Link: https://pokedex-sysraafael.vercel.app/
+
+#### 🔹 Technologies Used:
+-NextJs
+-PokeAPI
+
+![Screenshot_1](https://user-images.githubusercontent.com/101739492/178075548-5e82fe07-f0e7-4ade-8325-77668a17ca91.png)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
