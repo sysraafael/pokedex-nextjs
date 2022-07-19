@@ -2,7 +2,7 @@
 
 #### 🔹 Sobre esse projeto:
 
-Nesse projeto fiz um portfolio!
+Nesse projeto fiz uma Pokédex!
 
 Link: https://pokedex-sysraafael.vercel.app/
 
